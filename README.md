@@ -1,4 +1,4 @@
-
+Odinokov Maxim
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
