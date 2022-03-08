@@ -1,4 +1,5 @@
 Max
+cool
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
