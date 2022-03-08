@@ -1,4 +1,5 @@
 Odinokov Maxim
+odinokov@mail.ru
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
