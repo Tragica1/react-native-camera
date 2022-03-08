@@ -1,5 +1,6 @@
 Odinokov Maxim
 odinokov@mail.ru
+backend developer
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
